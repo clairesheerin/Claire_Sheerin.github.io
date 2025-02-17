@@ -1,0 +1,12 @@
+name: "Claire-Sheerin"
+navbar:
+  title: "Claire Sheerin"
+  left:
+    - text: "Home"
+      href: index.html
+    right: 
+    - incon: fa-github fa-lg
+    href: https://github.com/clairesheerin/Claire_Sheerin.github.io.git
+    output:
+    html_document:
+    theme: moonwalk
